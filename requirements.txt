@@ -1,5 +1,0 @@
-fastapi
-uvicorn
-google-generativeai>=0.8.5
-supabase
-python-multipart
