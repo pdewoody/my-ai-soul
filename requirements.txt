@@ -1,5 +1,0 @@
-﻿fastapi
-uvicorn
-google-generativeai
-supabase
-python-multipart
